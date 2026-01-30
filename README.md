@@ -20,11 +20,12 @@ Note: This is currently only for ESP32.
 
 
 Add the "addon":
-Go to Settings > System > Firmware > Update Application and upload the file: SomfyController.littlefs.bin.
 
-Go to Settings > System > Firmware > Update Firmware and upload the custom SomfyController.ino.esp32.bin.
+1. Go to Settings > System > Firmware > Update Application and upload the file: SomfyController.littlefs.bin.
+
+2. Go to Settings > System > Firmware > Update Firmware and upload the custom SomfyController.ino.esp32.bin.
 
 Add a time schedule:
-Click on the Clock icon next to the Settings icon, set your preferred options, then click „Zeitplan speichern“. Wait about 5–10 seconds and refresh the page.
+1. Click on the Clock icon next to the Settings icon, set your preferred options, then click „Zeitplan speichern“. Wait about 5–10 seconds and refresh the page.
 
 Note: Currently, you need to refresh the page due to a bug that keeps the loading animation visible even after the process is finished.
