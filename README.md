@@ -29,3 +29,6 @@ Add a time schedule:
 1. Click on the Clock icon next to the Settings icon, set your preferred options, then click „Zeitplan speichern“. Wait about 5–10 seconds and refresh the page.
 
 Note: Currently, you need to refresh the page due to a bug that keeps the loading animation visible even after the process is finished.
+
+I appreciate bug reports, feature requests, and general feedback.
+You are also welcome to ask for help or suggest improvements to this guide.
