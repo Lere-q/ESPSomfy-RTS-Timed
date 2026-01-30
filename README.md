@@ -32,3 +32,5 @@ Note: Currently, you need to refresh the page due to a bug that keeps the loadin
 
 I appreciate bug reports, feature requests, and general feedback.
 You are also welcome to ask for help or suggest improvements to this guide.
+
+<img width="1536" height="1024" alt="dc96d906-3e8a-46d7-89f8-8ca52686c180" src="https://github.com/user-attachments/assets/ee9584cf-a1f9-4417-a63f-6dfa39c4545e" />
