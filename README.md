@@ -3,7 +3,7 @@ A controller for Somfy RTS shades and blinds using an ESP32, with integrated tim
 
 ⚠️ Important: I recommend backing up everything or setting this up before adding any blinds. I am not responsible for any data loss or malfunctions.
 
-Note: This is currently only for ESP32.
+Note: This is currently only for ESP32 and available in German only.
 
 
 
