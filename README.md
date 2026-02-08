@@ -10,6 +10,7 @@ Note: This is currently only tested on ESP32 and available in German only. It wa
 1. Install the default ESPSomfy software using ESPHome:
    
 Warning: This is a direct download:
+
 Download the stock software from:
 https://github.com/rstrouse/ESPSomfy-RTS/releases/download/v2.4.6/SomfyController.onboard.esp32.bin.zip
    
