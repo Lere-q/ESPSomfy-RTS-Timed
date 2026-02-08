@@ -3,20 +3,23 @@ A controller for Somfy RTS shades and blinds using an ESP32, with integrated tim
 
 ⚠️ Important: I recommend backing up everything or setting this up before adding any blinds. I am not responsible for any data loss or malfunctions.
 
-Note: This is currently only for ESP32 and available in German only.
+Note: This is currently only tested on ESP32 and available in German only. It was made for version v2.4.6, but maby work also for newer versions.
 
 
 
 1. Install the default ESPSomfy software using ESPHome:
-   Download the stock software from:
-   https://github.com/rstrouse/ESPSomfy-RTS/releases/download/v2.4.6/SomfyController.onboard.esp32.bin.zip
    
-   Warning: This is a direct download.
+Warning: This is a direct download:
+Download the stock software from:
+https://github.com/rstrouse/ESPSomfy-RTS/releases/download/v2.4.6/SomfyController.onboard.esp32.bin.zip
    
-2. Install the default ESPSomfy software on your ESP32 board using ESPHome:
+Or the current version for your board:
+https://github.com/rstrouse/ESPSomfy-RTS/releases/tag/v2.4.6
+   
+3. Install the default ESPSomfy software on your ESP32 board using ESPHome:
    https://web.esphome.io/
 
-3. Configure your Wi-Fi and set your time zone.
+4. Configure your Wi-Fi and set your time zone.
 
 
 Add the "addon":
