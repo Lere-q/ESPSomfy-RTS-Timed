@@ -15,7 +15,7 @@ Download the stock software from:
 https://github.com/rstrouse/ESPSomfy-RTS/releases/download/v2.4.6/SomfyController.onboard.esp32.bin.zip
    
 Or the current version for your board:
-https://github.com/rstrouse/ESPSomfy-RTS/releases/tag/v2.4.6
+https://github.com/rstrouse/ESPSomfy-RTS/releases
    
 3. Install the default ESPSomfy software on your ESP32 board using ESPHome:
    https://web.esphome.io/
