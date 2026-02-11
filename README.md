@@ -1,4 +1,9 @@
 # ESPSomfy-RTS-Timed
+
+This is based on https://github.com/rstrouse/ESPSomfy-RTS
+
+
+
 A controller for Somfy RTS shades and blinds using an ESP32, with integrated time-scheduling.
 
 ⚠️ Important: I recommend backing up everything or setting this up before adding any blinds. I am not responsible for any data loss or malfunctions.
