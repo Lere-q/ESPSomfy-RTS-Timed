@@ -4,15 +4,15 @@ This is based on https://github.com/rstrouse/ESPSomfy-RTS
 
 # This will be replaced with a new project called Skyeo!
 
-## I still appreciate any tips, feedback, and support from the community.
+### I still appreciate any tips, feedback, and support from the community.
 
-## More details will follow soon on how to transition to Skyeo.
+### More details will follow soon on how to transition to Skyeo.
 
-## Current users are encouraged to try Skyeo once it’s released.
+### Current users are encouraged to try Skyeo once it’s released.
 
-## This project will remain here for reference until Skyeo is fully ready.
+### This project will remain here for reference until Skyeo is fully ready.
 
-## Future development will continue under Skyeo.
+### Future development will continue under Skyeo.
 
 A controller for Somfy RTS shades and blinds using an ESP32, with integrated time-scheduling.
 
